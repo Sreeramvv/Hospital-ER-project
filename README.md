@@ -22,6 +22,7 @@ What Claude did via MCP
 
 <img width="3116" height="1284" alt="image" src="https://github.com/user-attachments/assets/81e7280f-cbcf-4988-9387-f4360c5c793e" />
 
+
 💡 What can you do?
 🔄 Build and Modify Semantic Models with Natural Language - Tell your AI assistant what you need, and it uses this MCP server to create, update, and manage tables, columns, measures, relationships, and more... across Power BI Desktop and Fabric semantic models.
 
@@ -30,6 +31,7 @@ What Claude did via MCP
 🔍 Query and Validate DAX - AI assistants can execute and validate DAX queries against your model, helping you test measures, troubleshoot calculations, and explore your data
 
 <img width="1412" height="787" alt="Hospital ER Project" src="https://github.com/user-attachments/assets/14287f52-b81b-40ed-820c-1ec65013f68e" />
+
 
 📈 Key Insights
 👥 Patient Demographics
